@@ -10,3 +10,6 @@
 然后在用cheerio  （cheerio(https://github.com/cheeriojs/cheerio ， 大家可以理解成一个 Node.js 版的 jquery）解析出想要的数据
 >
 感谢原作者
+>
+扩展：
+   如何实现适用于所有的爬虫？
